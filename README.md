@@ -3,6 +3,11 @@
 For more detail, please visit:
 > [Vuetify data-table example with CRUD App](https://bezkoder.com/vuetify-data-table-example/)
 
+More Practice:
+> [Vuetify Pagination (Server Side) example](https://bezkoder.com/vuetify-pagination-server-side/)
+
+> [Vuetify File upload example](https://bezkoder.com/vuetify-file-upload/)
+
 Using Bootstrap instead:
 > [Vue.js CRUD App with Vue Router & Axios](https://bezkoder.com/vue-js-crud-app/)
 
